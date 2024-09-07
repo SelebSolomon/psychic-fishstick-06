@@ -23,3 +23,4 @@ Provide your private key when required for contract deployment and provide the *
 
 *Credit to [AnonID.TOP](https://github.com/anonid-top) for laying the groundwork.*
 *[Join my Telegram channel](http://t.me/CryptoBunkie) for more updates.*
+# swissstronice-task-06
